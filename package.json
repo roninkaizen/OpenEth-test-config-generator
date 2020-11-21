@@ -1,5 +1,5 @@
 {
-  "name": "parity-config-generator",
+  "name": "openeth-test-config-generator",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://roninkaizen.github.io/OpenEth-test-config-generator/",
