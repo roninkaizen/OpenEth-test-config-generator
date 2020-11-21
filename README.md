@@ -1,8 +1,7 @@
-# Parity Config Generator
+# OpenEth testConfig Generator
 
 [![Build Status](https://travis-ci.org/paritytech/parity-config-generator.svg?branch=master)](https://travis-ci.org/paritytech/parity-config-generator)
 
-See my demo at: [Parity Config Generator](https://roninkaizen.github.io/parity-config-generator)
 
 ## Development
 
